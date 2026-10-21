@@ -1,0 +1,149 @@
+<div align="center">
+
+<img alt="Hi there, I'm Shahin 👋" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:5B8DEF&height=220&section=header&text=Hi%20there,%20I'm%20Shahin%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%40%20Medipol%20University&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://linkedin.com/in/kitcat-falcon-a07601371">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:shahin2005.h@icloud.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-3693F3?style=for-the-badge&logo=icloud&logoColor=white" />
+</a>
+<img alt="Location: Istanbul, Turkey" src="https://img.shields.io/badge/Location-Istanbul,%20Turkey-3D5A80?style=for-the-badge&logo=googlemaps&logoColor=white" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=5B8DEF&center=true&vCenter=true&width=650&lines=Writing+C%2C+C%2B%2B%2C+Rust%2C+Java+%26+Python;Building+desktop+apps+with+Electron+%26+Node.js;Recently+built%3A+Counterline+FX+Desk+%F0%9F%92%B1;Currently+learning+Unreal+Engine+%F0%9F%8E%AE;Trilingual%3A+English+%C2%B7+Turkish+%C2%B7+Persian" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+## 🧭 About Me
+
+```json
+{
+  "name"      : "Shahin Hassanyan",
+  "role"      : "4th-Year Computer Engineering Student",
+  "university": "Medipol University",
+  "location"  : "Istanbul, Turkey",
+  "languages" : ["English", "Turkish", "Persian"]
+}
+```
+
+- 💱 Recently built **Counterline FX Desk**, a proprietary desktop pricing application for currency exchange offices
+- 🎮 Currently learning **Unreal Engine**
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img alt="C, C++, Java, Python, Rust, Node.js, Electron, JavaScript, CSS" src="https://skillicons.dev/icons?i=c,cpp,java,py,rust,nodejs,electron,js,css&theme=dark" />
+
+</div>
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahin-H2&theme=tokyonight" alt="GitHub profile summary" width="100%" />
+
+<br/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shahin-H2&theme=tokyonight" alt="GitHub stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shahin-H2&theme=tokyonight" alt="Top languages by commit" />
+
+<br/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shahin-H2&theme=tokyonight" alt="Top languages by repo" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shahin-H2&utcOffset=3&theme=tokyonight" alt="Most productive time of day" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Shahin-H2&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+<br/>
+
+## 🎖️ At a Glance
+
+<div align="center">
+
+<img src="https://github-widgetbox.vercel.app/api/profile?username=Shahin-H2&data=followers,repositories,stars,commits&theme=nautilus" alt="Followers, repos, stars and commits" />
+
+</div>
+
+<br/>
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/5B8DEF/Shahin-H2" alt="Contribution chart" width="100%" />
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+> The snake eats my commits. The commits keep coming. It is a fair fight so far.
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Shahin-H2/Shahin-H2/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+
+</div>
+
+<br/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/kitcat-falcon-a07601371"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:shahin2005.h@icloud.com"><img alt="Say Hello" src="https://img.shields.io/badge/-Say%20Hello-3693F3?style=for-the-badge&logo=icloud&logoColor=white"/></a>
+
+<br/>
+
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=Shahin-H2&style=for-the-badge&color=5B8DEF&label=PROFILE+VIEWS" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+
+**Genuinely though — if you got this far, you are exactly the kind of person I want to work with.**
+Say hi. I answer every message. 👆
+
+</div>
+
+
+<div align="center">
+
+<img alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:5B8DEF,100:1F3864&height=100&section=footer" width="100%"/>
+
+</div>
