@@ -1,12 +1,15 @@
 <div align="center">
 
-<img alt="Hi there, I'm Shahin 👋 — Computer Engineering Student @ Medipol University" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0764,100:A855F7&height=220&section=header&text=Hi%20there,%20I'm%20Shahin%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%40%20Medipol%20University&descAlignY=58&descSize=18" width="100%"/>
+<img alt="Hi there, I'm Shahin 👋 — Computer Engineering Student @ Medipol University" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:5B8DEF&height=220&section=header&text=Hi%20there,%20I'm%20Shahin%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%40%20Medipol%20University&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://linkedin.com/in/kitcat-falcon-a07601371">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" />
 </a>
 <a href="mailto:shahin2005.h@icloud.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-3693F3?style=for-the-badge&logo=icloud&logoColor=white" />
+</a>
+<a href="mailto:falcon.shahin2005@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <img alt="Location: Istanbul, Turkey" src="https://img.shields.io/badge/Location-Istanbul,%20Turkey-3D5A80?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
@@ -150,6 +153,6 @@ Say hi. I answer every message. 👆
 
 <div align="center">
 
-<img alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:3B0764&height=100&section=footer" width="100%"/>
+<img alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:5B8DEF,100:1F3864&height=100&section=footer" width="100%"/>
 
 </div>
