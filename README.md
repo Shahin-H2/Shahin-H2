@@ -1,9 +1,9 @@
 <div align="center">
 
-<img alt="Hi there, I'm Shahin 👋" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:5B8DEF&height=220&section=header&text=Hi%20there,%20I'm%20Shahin%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%40%20Medipol%20University&descAlignY=58&descSize=18" width="100%"/>
+<img alt="Hi there, I'm Shahin 👋 — Computer Engineering Student @ Medipol University" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:5B8DEF&height=220&section=header&text=Hi%20there,%20I'm%20Shahin%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%40%20Medipol%20University&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://linkedin.com/in/kitcat-falcon-a07601371">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" />
 </a>
 <a href="mailto:shahin2005.h@icloud.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-3693F3?style=for-the-badge&logo=icloud&logoColor=white" />
@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=5B8DEF&center=true&vCenter=true&width=650&lines=Writing+C%2C+C%2B%2B%2C+Rust%2C+Java+%26+Python;Building+desktop+apps+with+Electron+%26+Node.js;Recently+built%3A+Counterline+FX+Desk+%F0%9F%92%B1;Currently+learning+Unreal+Engine+%F0%9F%8E%AE;Trilingual%3A+English+%C2%B7+Turkish+%C2%B7+Persian" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=5B8DEF&center=true&vCenter=true&width=650&lines=Writing+C%2C+C%2B%2B%2C+Rust%2C+Java+%26+Python;Building+desktop+apps+with+Electron+%26+Node.js;Recently+built%3A+Counterline+FX+Desk+%F0%9F%92%B1;Currently+learning+Unreal+Engine+%F0%9F%8E%AE;Trilingual%3A+English+%C2%B7+Turkish+%C2%B7+Persian" alt="Writing C, C++, Rust, Java and Python · Building desktop apps with Electron and Node.js · Recently built: Counterline FX Desk · Currently learning Unreal Engine · Trilingual: English, Turkish, Persian" />
 
 </div>
 
@@ -52,8 +52,8 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
+![Vanilla JS](https://img.shields.io/badge/Vanilla%20JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vanilla CSS](https://img.shields.io/badge/Vanilla%20CSS-663399?style=flat-square&logo=css&logoColor=white)
 
 </div>
 
@@ -112,7 +112,11 @@
 > The snake eats my commits. The commits keep coming. It is a fair fight so far.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Shahin-H2/Shahin-H2/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shahin-H2/Shahin-H2/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shahin-H2/Shahin-H2/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Shahin-H2/Shahin-H2/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</picture>
 
 </div>
 
@@ -122,7 +126,7 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/kitcat-falcon-a07601371"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/kitcat-falcon-a07601371"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D"/></a>
 <a href="mailto:shahin2005.h@icloud.com"><img alt="Say Hello" src="https://img.shields.io/badge/-Say%20Hello-3693F3?style=for-the-badge&logo=icloud&logoColor=white"/></a>
 
 <br/>
