@@ -1,0 +1,15 @@
+<svg width="64.5" height="48" viewBox="0 0 344 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Assembly</title>
+  <g transform="translate(44 0)">
+    <rect width="256" height="256" rx="60" fill="#242938"/>
+    <g stroke="#9DA5B4" stroke-width="12" stroke-linecap="round">
+      <path d="M100 30V54M128 30V54M156 30V54M100 202V226M128 202V226M156 202V226M30 100H54M30 128H54M30 156H54M202 100H226M202 128H226M202 156H226"/>
+    </g>
+    <rect x="54" y="54" width="148" height="148" rx="18" fill="#2F3546" stroke="#9DA5B4" stroke-width="10"/>
+    <g stroke="#F0B429" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M76 150L90 106L104 150M81 135H99"/>
+      <path d="M142 106H121Q114 106 114 113V121Q114 128 121 128H135Q142 128 142 135V143Q142 150 135 150H114"/>
+      <path d="M152 150V106L166 132L180 106V150"/>
+    </g>
+  </g>
+</svg>
