@@ -15,7 +15,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=5B8DEF&center=true&vCenter=true&width=650&lines=Writing+C%2C+C%2B%2B%2C+Rust%2C+Java+%26+Python;Building+desktop+apps+with+Electron+%26+Node.js;Recently+built%3A+Counterline+FX+Desk+%F0%9F%92%B1;Currently+learning+Unreal+Engine+%F0%9F%8E%AE;Trilingual%3A+English+%C2%B7+Turkish+%C2%B7+Persian" alt="Writing C, C++, Rust, Java and Python · Building desktop apps with Electron and Node.js · Recently built: Counterline FX Desk · Currently learning Unreal Engine · Trilingual: English, Turkish, Persian" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=5B8DEF&center=true&vCenter=true&width=650&lines=Writing+C%2C+C%2B%2B%2C+Assembly%2C+Rust%2C+Java+%26+Python;Building+desktop+apps+with+Electron+%26+Node.js;Recently+built%3A+Counterline+FX+Desk+%F0%9F%92%B1;Currently+learning+Unreal+Engine+%F0%9F%8E%AE;Trilingual%3A+English+%C2%B7+Turkish+%C2%B7+Persian" alt="Writing C, C++, Assembly, Rust, Java and Python · Building desktop apps with Electron and Node.js · Recently built: Counterline FX Desk · Currently learning Unreal Engine · Trilingual: English, Turkish, Persian" />
 
 </div>
 
@@ -42,7 +42,7 @@
 
 <div align="center">
 
-<img alt="C, C++, Java, Python, Rust, Node.js, Electron, JavaScript, CSS" src="https://skillicons.dev/icons?i=c,cpp,java,py,rust,nodejs,electron,js,css&theme=dark" />
+<img alt="C, C++" src="https://skillicons.dev/icons?i=c,cpp&theme=dark" /><img alt="Assembly" title="Assembly" src="assets/assembly.svg" /><img alt="Java, Python, Rust, Node.js, Electron, JavaScript, CSS" src="https://skillicons.dev/icons?i=java,py,rust,nodejs,electron,js,css&theme=dark" />
 
 </div>
 
